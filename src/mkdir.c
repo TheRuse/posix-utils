@@ -1,5 +1,3 @@
-
-#include <asm-generic/errno.h>
 #include <linux/limits.h>
 #include <stdlib.h>
 #include <string.h>
